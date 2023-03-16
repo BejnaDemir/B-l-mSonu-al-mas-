@@ -1,2 +1,2 @@
-# B-l-mSonu-al-mas-
+## Bölüm Sonu Çalışması
 Patika eğitiminde yaptığımız bölüm sonu çalışması
